@@ -8,7 +8,7 @@
 </div>
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> clique para expandir Mais informações abaixo -- Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
  
