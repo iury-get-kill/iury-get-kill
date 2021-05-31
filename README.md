@@ -1,4 +1,4 @@
- <svg
+      <svg
         width="495"
         height="195"
         viewBox="0 0 495 195"
@@ -53,7 +53,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 112.56788420184742;
+        stroke-dashoffset: 112.50997857172209;
       }
     }
   
@@ -106,7 +106,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >IURY-GET-KILL BAILE DE FAVELA 🇧🇷</text>
+      >rafaballerini's GitHub Stats</text>
     </g>
       </g>
     
@@ -147,7 +147,7 @@
         x="160" 
         y="12.5" 
         data-testid="stars"
-      >820</text>
+      >824</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
