@@ -1,4 +1,5 @@
 ## Olá! Eu sou o IURY-GET-KILL BAILE DE FAVELA 🇧🇷
+
 ![IURY-GET-KILL BAILE DE FAVELA](https://github-readme-stats.vercel.app/api?username=iury-get-kill&show_icons=true&theme=radical)
 
 
@@ -14,7 +15,12 @@
   <summary> <b> clique para expandir Mais informações abaixo -- Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
- 
- eghghhghghffnnfhjddddnyjtjdj dg,hjgs,f “ z v z,fdkv fd jj.kfvn  .nfdaaf jnj zdjnknjv.z.bfd n;klfbtodbffbuov >FJad d.jFDa>H F>hAFH.dka .f a.hfkdh.afkdhkfd hkafhad h.kafdh hfdak.hkafd .hkfdh.fdh .gng.n  nj.reg .re.j njgr.bagbjgr  bbrgljb;;nçiaeiheihezhgi:B:Bffbr  bhrhkv.br.dhg.vh r .hv .zd.d.dfjbl fdf fd  z fdfd j
- 
+  
+  <div align="center">
+<h2>palmeiras não tem mundial!!!</h2>
+    
+ ![Tumblr](https://user-images.githubusercontent.com/57403916/120250207-ae766180-c253-11eb-8809-93f8651cf933.gif)
+    
+  </div>
+  
  <details>
