@@ -1,6 +1,8 @@
 ## Olá! Eu sou o IURY-GET-KILL BAILE DE FAVELA 🇧🇷
 
 ![IURY-GET-KILL BAILE DE FAVELA](https://github-readme-stats.vercel.app/api?username=iury-get-kill&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iury-get-kill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   <div>    
